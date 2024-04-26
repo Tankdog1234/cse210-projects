@@ -8,7 +8,7 @@ class Program
         string nb_scoreString = Console.ReadLine();
         float nb_score = float.Parse(nb_scoreString);
 
-        string nb_gradeLetter;
+        string nb_gradeLetter = "";
 
         if (nb_score >= 90)
         {
