@@ -1,0 +1,8 @@
+Date: 5/18/2024
+Prompt: What was the highlight of your day?
+I really enjoyed the cooler weather today!
+ 
+Date: 5/18/2024
+Prompt: What was something you learned today?
+I learned a little bit better how the StreamWriter class handles files.
+ 
