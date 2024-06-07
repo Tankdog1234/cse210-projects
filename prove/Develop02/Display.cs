@@ -29,9 +29,10 @@ public class Display
         {
             foreach (char letter in entry)
             {
-                Console.WriteLine(letter);
+                Console.Write(letter);
                 Thread.Sleep(25);
             }
+            Console.WriteLine();
         }
     }
 }
