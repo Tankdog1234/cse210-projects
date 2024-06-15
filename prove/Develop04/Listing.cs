@@ -3,7 +3,6 @@ using System.Runtime.CompilerServices;
 
 class Listing : Activity
 {
-
     public Listing() : base()
     {
         _activityName = "Listing Activity";
