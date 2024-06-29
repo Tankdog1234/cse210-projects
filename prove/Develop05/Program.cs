@@ -4,6 +4,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Develop05 World!");
+        Menu menu = new Menu();
+        int userInput = -1;
+        while(userInput != 5)
+        {
+            userInput = menu.Display();
+        } 
     }
 }
