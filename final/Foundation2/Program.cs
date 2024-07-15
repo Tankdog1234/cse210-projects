@@ -74,10 +74,7 @@ class Program
         }
 
 
-        //return packing label
-        
-
-        //return shipping label
+        //return labels
         int shippingCost = 0;
         for(i = 0; i < 2; i++)
         {
@@ -96,9 +93,5 @@ class Program
             Console.WriteLine($"Total cost of order: ${Math.Round(orders[i].GetPrice(), 2)}");
             Console.WriteLine("\n");
         }
-
-        //return total cost of the order
-
-        //display these results
     }
 }
